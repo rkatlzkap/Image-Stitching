@@ -1,8 +1,9 @@
 # Image-Stitching
 
-I implemented Image-Stitching as a term project.
+I implemented Image Stitching as a term project in the Digital Image Processing class on campus.
 
-The goal of the project is to implement Image Stitchin and to implement it directly without using built-in functions and to increase understanding.
+
+The goal of the project is to implement Image Stitching and to implement it directly without using built-in functions and to increase understanding.
 
 First of all, Level A1a is to determine the direction of the two input images. It was solved by an algorithm that determines the direction using thresholding in the Homography matrix.
 
